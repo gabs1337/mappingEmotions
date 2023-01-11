@@ -26,7 +26,7 @@ body {
 }
 .happy{
   transition: all 0.5s ease;
-  background-image: url(img/Happy_smiley_face.png);
+  background-image: url(img/sorri.png);
   background-size: 150px;
   background-position: 50%;
   background-repeat: no-repeat;    
@@ -40,14 +40,14 @@ body {
 
 }
 .soso{
-  background-image: url(img/Emoji-Normal-PNG.png);
+  background-image: url(img/deboa.png);
   transition: all 0.5s ease;
   background-size: 150px;
   background-repeat: no-repeat;
   background-position: 50%;
 }
 .grr{
-  background-image: url(img/grr.png);
+  background-image: url(img/estress.png);
   transition: all 0.5s ease;
   background-size: 150px;
   background-repeat: no-repeat;
